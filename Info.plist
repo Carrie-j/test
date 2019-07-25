@@ -15,6 +15,14 @@
 				</dict>
 				<dict>
 					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
 					<true/>
@@ -27,11 +35,9 @@
 				<key>bundle-identifier</key>
 				<string>com.huangchao.live1</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>App Subtitle</string>
 				<key>title</key>
 				<string>皇后</string>
 			</dict>
